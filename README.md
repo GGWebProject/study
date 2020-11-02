@@ -5,6 +5,7 @@
 * [Веб стандарты](https://www.youtube.com/user/wstdays/featured) - ```RU``` *Канал от создателей HTML Academy. Новости из мира front-end*.
 * [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ/featured) - ```RU``` *Канал про JS и все что с ним связано*.
 * [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/featured) - ```RU``` *Канал обучающий front-end разработке*. 
+* [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw) - ```RU``` *Канал обучающий front-end разработке*. 
 * [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg) - ```RU``` *На канале представлены основы создания сайтов как с помощью обычного HTML/CSS/JS, так и с помощью различных CMS (Wordpress, Joomla и т.д.)*.
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - ```ENG``` *Канал одноименной полностью бесплатной школы freeCodeCamp.org. Есть абсолютно все или почти все*.
 * [DesignCourse](https://www.youtube.com/user/DesignCourse/featured) - ```ENG``` *Канал о UI/UX, HTML/CSS/JS. Будет полезен тем, кто хочет знать о последних трендах в дизайне и как их воплотить в жизнь*.
